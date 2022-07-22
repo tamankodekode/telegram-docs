@@ -15,14 +15,19 @@ Setelah itu, admin membuat media tersebut di Youtube dan Blog dengan nama The Mi
 maka nama ini diganti menjadi Taman Kode-Kode yang diambil dari Taman Kanak-Kanak. Sesuai dengan materi yang dipelajari, yaitu benar-benar dari dasar.
 
 ## Aturan Grup
+#### Komunikasi
 1. Dilarang mengundang SARA.
 2. Gunakan bahasa kesatuan, Bahasa Indonesia.
 3. Jagalah sopan santun dan etika!
-4. Dilarang memuji-muji untuk mengemis jawaban, contohnya "Mohon bantuannya, Mastah"
+4. Dilarang memuji-muji untuk mengemis jawaban, contohnya "Bantuin dong ommm ente kan master"
+
+#### Lowongan Kerja
+Lowongan kerja boleh dibagikan secara bebas, oleh member yang aktif.
+Nilai keaktifan dinilai dari statistik komunikasi di grup.
 
 ## Hukuman
 1. Teguran.
-2. Apabila teguran tidak dihiraukan, maka akan di jadikan restrict member.
+2. Apabila teguran tidak dihiraukan, maka akan dijadikan restrict member.
 
 ## Link
 1. [Facebook](https://facebook.com/tamanKodeKode/)
