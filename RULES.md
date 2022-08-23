@@ -33,7 +33,7 @@ Keaktifan dinilai dari statistik komunikasi di grup.
 1. [Facebook](https://facebook.com/tamanKodeKode/)
 2. [Youtube](https://www.youtube.com/c/tamankodekode)
 3. [Instagram](https://www.instagram.com/tamankodekode/)
-4. [Discord](https://discord.gg/cyA34Kkw)
+4. [Discord](https://discord.gg/AMHhCjsNh8)
 
 ## Catatan:
 1. Aturan ini dibuat demi kenyamanan seluruh member.
