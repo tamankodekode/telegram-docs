@@ -21,9 +21,9 @@ maka nama ini diganti menjadi Taman Kode-Kode yang diambil dari Taman Kanak-Kana
 3. Jagalah sopan santun dan etika!
 4. Dilarang memuji-muji untuk mengemis jawaban, contohnya "Bantuin dong ommm ente kan master"
 
-#### Lowongan Kerja
-Lowongan kerja boleh dibagikan secara bebas, oleh member yang aktif.
-Nilai keaktifan dinilai dari statistik komunikasi di grup.
+#### Pesan Masal (Info Lowongan Kerja, Workshop, Bootcamp, Kuesioner)
+Pesan masal boleh dibagikan secara bebas, oleh member yang aktif.
+Keaktifan dinilai dari statistik komunikasi di grup.
 
 ## Hukuman
 1. Teguran.
