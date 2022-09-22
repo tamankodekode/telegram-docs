@@ -23,7 +23,7 @@ maka nama ini diganti menjadi Taman Kode-Kode yang diambil dari Taman Kanak-Kana
 
 #### Pesan Masal (Info Lowongan Kerja, Workshop, Bootcamp, Kuesioner)
 Pesan masal boleh dibagikan secara bebas, oleh member yang aktif.
-Keaktifan dinilai dari statistik komunikasi di grup.
+Keaktifan dinilai dari statistik komunikasi di grup. Untuk bisa dikatakan aktif, aksi member pada statistik grup harus menyentuh setidaknya 2% untuk 1 bulan terakhir.
 
 ## Hukuman
 1. Teguran.
