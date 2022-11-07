@@ -21,6 +21,13 @@ maka nama ini diganti menjadi Taman Kode-Kode yang diambil dari Taman Kanak-Kana
 3. Jagalah sopan santun dan etika!
 4. Dilarang memuji-muji untuk mengemis jawaban, contohnya "Bantuin dong ommm ente kan master"
 
+#### Topik
+Manajemen topik secara umum memenuhi hal-hal berikut.
+1. Topik dibuat atas pengajuan member (anggota forum).
+2. Topik yang diajukan wajib dibahas pada forum terkait deskripsi, urgensi, atau aspek lainnya.
+3. Jika forum menyetujui, maka admin wajib memfasilitasi pembuatan topik tersebut.
+4. Topik akan dihapus jika berumur kurang dari 4 bulan dan tidak aktif selama 1 bulan.
+
 #### Pesan Masal (Info Lowongan Kerja, Workshop, Bootcamp, Kuesioner)
 Pesan masal boleh dibagikan secara bebas, oleh member yang aktif.
 Keaktifan dinilai dari statistik komunikasi di grup. Untuk bisa dikatakan aktif, aksi member pada statistik grup harus menyentuh setidaknya 2% untuk 1 bulan terakhir.
