@@ -36,12 +36,6 @@ Keaktifan dinilai dari statistik komunikasi di grup. Untuk bisa dikatakan aktif,
 1. Teguran.
 2. Apabila teguran tidak dihiraukan, maka akan dijadikan restrict member.
 
-## Link
-1. [Facebook](https://facebook.com/tamanKodeKode/)
-2. [Youtube](https://www.youtube.com/c/tamankodekode)
-3. [Instagram](https://www.instagram.com/tamankodekode/)
-4. [Discord](https://discord.gg/AMHhCjsNh8)
-
 ## Catatan:
 1. Aturan ini dibuat demi kenyamanan seluruh member.
 2. Hal-hal yang belum diatur, akan diatur nanti.
